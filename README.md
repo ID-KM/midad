@@ -19,12 +19,12 @@
 | --- | --- |
 | ![شاشة 5](assets/app/screenshot-5.jpg) | ![شاشة 4](assets/app/screenshot-4.jpg) |
 
-| 7 | 6 | 1.1 |
+| 8 | 7 | 6 |
 | --- | --- | --- |
-| ![شاشة 7](assets/app/screenshot-7.jpg) | ![شاشة 6](assets/app/screenshot-6.jpg) | ![شاشة 1.1](assets/app/screenshot-1.1.png) |
+| ![شاشة 8](assets/app/screenshot-8.jpg) | ![شاشة 7](assets/app/screenshot-7.jpg) | ![شاشة 6](assets/app/screenshot-6.png) |
 
 <p align="center">
-  <img src="assets/app/screenshot-8.jpg" width="150" alt="شاشة 8" />
+  <img src="assets/app/screenshot-9.jpg" width="150" alt="شاشة 9" />
 </p>
 
 ## التحميل المباشر
