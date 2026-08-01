@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F5D78E"/>
+      <stop offset="0.55" stop-color="#D4AF37"/>
+      <stop offset="1" stop-color="#B8860B"/>
+    </linearGradient>
+    <linearGradient id="goldLight" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FCE4B3"/>
+      <stop offset="1" stop-color="#E0B85C"/>
+    </linearGradient>
+  </defs>
+
+  <!-- الخلفية الكحلية الموحدة -->
+  <rect width="1024" height="1024" fill="#0D1B2A"/>
+
+  <!-- زخارف إسلامية: أقواس متحدة المركز في الزوايا الأربع -->
+  <g fill="none" stroke="#D4AF37" stroke-opacity="0.35" stroke-width="6">
+    <!-- TL -->
+    <path d="M0,160 A160,160 0 0 0 160,0"/>
+    <path d="M0,220 A220,220 0 0 0 220,0"/>
+    <path d="M0,280 A280,280 0 0 0 280,0"/>
+    <!-- TR -->
+    <path d="M864,0 A160,160 0 0 0 1024,160"/>
+    <path d="M804,0 A220,220 0 0 0 1024,220"/>
+    <path d="M744,0 A280,280 0 0 0 1024,280"/>
+    <!-- BL -->
+    <path d="M160,1024 A160,160 0 0 0 0,864"/>
+    <path d="M220,1024 A220,220 0 0 0 0,804"/>
+    <path d="M280,1024 A280,280 0 0 0 0,744"/>
+    <!-- BR -->
+    <path d="M1024,864 A160,160 0 0 0 864,1024"/>
+    <path d="M1024,804 A220,220 0 0 0 804,1024"/>
+    <path d="M1024,744 A280,280 0 0 0 744,1024"/>
+  </g>
+
+  <!-- القلم (مائل 28°) -->
+  <g transform="rotate(28 640 300)">
+    <rect x="600" y="186" width="36" height="26" rx="8" fill="#B8860B"/>
+    <rect x="600" y="212" width="36" height="208" rx="14" fill="url(#goldLight)"/>
+    <polygon points="600,420 636,420 618,470" fill="#8B6914"/>
+  </g>
+
+  <!-- الكتاب المفتوح -->
+  <path d="M512,350 C430,392 352,407 282,427 L282,505 C352,485 430,470 512,512 Z" fill="url(#goldLight)"/>
+  <path d="M512,350 C594,392 672,407 742,427 L742,505 C672,485 594,470 512,512 Z" fill="url(#gold)"/>
+  <!-- تجليد -->
+  <rect x="504" y="352" width="16" height="158" rx="8" fill="#8B6914"/>
+
+  <!-- اسم التطبيق: مداد — بخط Amiri الذهبي، اتجاه عربي سليم (rtl) -->
+  <text x="512" y="610" text-anchor="middle" dominant-baseline="middle"
+        font-family="Amiri" font-size="110" font-weight="bold" fill="url(#gold)"
+        direction="rtl" unicode-bidi="bidi-override">مداد</text>
+
+  <!-- قطرة المداد -->
+  <path d="M512,686 C530,710 532,724 512,738 C492,724 494,710 512,686 Z" fill="url(#goldLight)"/>
+</svg>
