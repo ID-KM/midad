@@ -9,6 +9,34 @@
 
 قارئ كتب بسيط وصادق للهواتف. يفتح كتابك ويقف جانبك حتى آخر صفحة — بلا إعلانات، بلا تعقيد، بلا فلسفة.
 
+## لقطات الشاشة
+
+<p align="center">
+  <img src="assets/app/screenshot-1.png" width="150" alt="شاشة 1" />
+  <img src="assets/app/screenshot-2.jpg" width="150" alt="شاشة 2" />
+  <img src="assets/app/screenshot-3.jpg" width="150" alt="شاشة 3" />
+  <img src="assets/app/screenshot-4.jpg" width="150" alt="شاشة 4" />
+  <img src="assets/app/screenshot-5.jpg" width="150" alt="شاشة 5" />
+  <img src="assets/app/screenshot-6.jpg" width="150" alt="شاشة 6" />
+  <img src="assets/app/screenshot-7.jpg" width="150" alt="شاشة 7" />
+  <img src="assets/app/screenshot-8.jpg" width="150" alt="شاشة 8" />
+</p>
+
+## التحميل المباشر
+
+حمّل أحدث نسخة مباشرة:
+
+* [**Midad v0.1.0 — arm64** (الهواتف الحديثة)](Midad-v0.1.0-arm64.apk) — 28 MB
+
+أو من الكود:
+
+```bash
+git clone https://github.com/ID-KM/midad.git
+cd midad
+flutter pub get
+flutter run
+```
+
 ## المميزات
 
 * **قراءة سلسة**: مرّر بين صفحات PDF دون توقف — كل صفحة تظهر فوراً وتتحسن أثناء الحركة، لا انتظار ولا قفزات.
@@ -26,17 +54,6 @@
 * **ملاحظات لا تضيع**: دوّن على أي صفحة، وارجع إليها بضغطة واحدة.
 
 * **مكتبة شخصية**: كتبك المفضلة في مكان واحد، بترتيبك أنت.
-
-## التحميل
-
-```bash
-git clone https://github.com/ID-KM/midad.git
-cd midad
-flutter pub get
-flutter run
-```
-
-أو خذ النسخة الجاهزة من [إصدارات المشروع](https://github.com/ID-KM/midad/releases) — ثبّتها مباشرة على هاتفك.
 
 ## التقنيات
 
