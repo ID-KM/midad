@@ -11,20 +11,25 @@
 
 ## لقطات الشاشة
 
-| 3 | 2 | 1 |
-| --- | --- | --- |
-| ![شاشة 3](assets/app/screenshot-3.jpg) | ![شاشة 2](assets/app/screenshot-2.jpg) | ![شاشة 1](assets/app/screenshot-1.png) |
-
-| 5 | 4 |
-| --- | --- |
-| ![شاشة 5](assets/app/screenshot-5.jpg) | ![شاشة 4](assets/app/screenshot-4.jpg) |
-
-| 8 | 7 | 6 |
-| --- | --- | --- |
-| ![شاشة 8](assets/app/screenshot-8.jpg) | ![شاشة 7](assets/app/screenshot-7.jpg) | ![شاشة 6](assets/app/screenshot-6.png) |
+<p align="center">
+  <img src="assets/app/screenshot-3.jpg" width="140" alt="شاشة 3" />
+  <img src="assets/app/screenshot-2.jpg" width="140" alt="شاشة 2" />
+  <img src="assets/app/screenshot-1.png" width="140" alt="شاشة 1" />
+</p>
 
 <p align="center">
-  <img src="assets/app/screenshot-9.jpg" width="150" alt="شاشة 9" />
+  <img src="assets/app/screenshot-5.jpg" width="140" alt="شاشة 5" />
+  <img src="assets/app/screenshot-4.jpg" width="140" alt="شاشة 4" />
+</p>
+
+<p align="center">
+  <img src="assets/app/screenshot-8.jpg" width="140" alt="شاشة 8" />
+  <img src="assets/app/screenshot-7.jpg" width="140" alt="شاشة 7" />
+  <img src="assets/app/screenshot-6.png" width="140" alt="شاشة 6" />
+</p>
+
+<p align="center">
+  <img src="assets/app/screenshot-9.jpg" width="140" alt="شاشة 9" />
 </p>
 
 ## التحميل المباشر
