@@ -11,13 +11,21 @@
 
 ## لقطات الشاشة
 
-| 1 | 2 | 3 | 4 |
-| --- | --- | --- | --- |
-| ![شاشة 1](assets/app/screenshot-1.png) | ![شاشة 2](assets/app/screenshot-2.jpg) | ![شاشة 3](assets/app/screenshot-3.jpg) | ![شاشة 4](assets/app/screenshot-4.jpg) |
+| 1 | 2 | 3 |
+| --- | --- | --- |
+| ![شاشة 1](assets/app/screenshot-1.png) | ![شاشة 2](assets/app/screenshot-2.jpg) | ![شاشة 3](assets/app/screenshot-3.jpg) |
 
-| 5 | 6 | 7 | 8 |
-| --- | --- | --- | --- |
-| ![شاشة 5](assets/app/screenshot-5.jpg) | ![شاشة 6](assets/app/screenshot-6.jpg) | ![شاشة 7](assets/app/screenshot-7.jpg) | ![شاشة 8](assets/app/screenshot-8.jpg) |
+| 4 | 5 |
+| --- | --- |
+| ![شاشة 4](assets/app/screenshot-4.jpg) | ![شاشة 5](assets/app/screenshot-5.jpg) |
+
+| 1.1 | 6 | 7 |
+| --- | --- | --- |
+| ![شاشة 1.1](assets/app/screenshot-1.1.png) | ![شاشة 6](assets/app/screenshot-6.jpg) | ![شاشة 7](assets/app/screenshot-7.jpg) |
+
+| 8 |
+| --- |
+| ![شاشة 8](assets/app/screenshot-8.jpg) |
 
 ## التحميل المباشر
 
