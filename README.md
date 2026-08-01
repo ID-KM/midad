@@ -25,7 +25,7 @@
 <p align="center">
   <img src="assets/app/screenshot-8.jpg" width="200" alt="شاشة 8" />
   <img src="assets/app/screenshot-7.jpg" width="200" alt="شاشة 7" />
-  <img src="assets/app/screenshot-6.png" width="200" alt="شاشة 6" />
+  <img src="assets/app/screenshot-6.png" width="200" alt="شاشة 6" style="vertical-align: top" />
 </p>
 
 <p align="center">
